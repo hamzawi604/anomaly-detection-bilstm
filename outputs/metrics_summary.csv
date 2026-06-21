@@ -1,0 +1,4 @@
+Model,Precision,Recall,F1 Score,AUC
+BiLSTM AE,0.0879,0.6493,0.1549,0.6793
+Simple AE,0.0842,0.6493,0.149,0.6781
+Isolation Forest,0.0588,0.0232,0.0333,0.5493
