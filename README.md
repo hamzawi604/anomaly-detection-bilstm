@@ -257,6 +257,4 @@ plotly >= 5.13
 
 - **Module** : Machine Learning & Deep Learning
 - **Niveau** : Master 1 – Gestion des Systèmes Industriels et Tertiaires (GSIT)
-- **Encadrante** : Mme Amel KHEITER
-- **Format** : Binôme · 2 semaines
 - **Rendu** : Code + Rapport (12p) + Présentation
